@@ -1,3 +1,3 @@
 # Cohort-17-Smart-Streetlight-Fault-Detection
-# SDG Goal :SDG 5 Gender Equality 
-Description Classify corporate job postings as neutral or biased based on linguistic text analysis. Evaluate the output using balanced accuracy scores. Fine tune the word embedding layers to capture subtle contextual biases in hiring language.
+# SDG Goal :SDG 9 Industry Innovation and Infrastructure
+Description Classify internet of things sensor data from urban lighting systems into operational or faulty states. Evaluate the model using mean time to detect metrics adapted for classification. Fine tune the polling frequency parameters to conserve sensor battery life.
