@@ -15,7 +15,7 @@
 | 1ST22CS240 <br> 1ST22CS241 <br> 1MV22EC056 <br> 4VM22IS004 | Vasanth Kumar H R <br> Vibhashree R <br> Harshith G K <br> Benaka M | ML Engineer |
 | 1HK22AI062 <br> 1GC22CS096 <br> 1EW22IS070 <br> 4AD22EC062 | Zeba Shine <br> Safdar Iqbal <br> Nakshatra S <br> Nayana M B | MTTD+ Polling <br> Frequency Analysis |
 | 1DT22IC003 <br> 1GC23CS419 <br> 1GC22CS068 | Akshay S <br> Tasaduque Ullah <br> Mohammed Umar Maniyar | Documentation |
-| 1RI22CS108 | Sridhar Y Gowdar | Git Hub Repo |
+| 1RI22CS108 | Sridhar Y Gowdar | GitHub Repo |
 
 ### Cohort Leaders
 
